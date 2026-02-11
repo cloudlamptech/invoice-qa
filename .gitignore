@@ -1,0 +1,6 @@
+.env
+.streamlit/
+temp_*.pdf
+__pycache__/
+*.pyc
+data/
